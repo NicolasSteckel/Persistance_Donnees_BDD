@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TD_persistance_donnees_BDD</string>
+    <string name="parametres">Paramètres</string>
+    <string name="deconnexion">Déconnexion</string>
+</resources>
